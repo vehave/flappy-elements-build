@@ -24,13 +24,13 @@ Play Flappy Elements and start learning chemistry in a fun way!
 
 <img src="flappy-elements-language-menu.png" alt="Language menu">
 
-<img src="flappy-elements.JPG" alt="Game view" style="padding:1px;border:thin solid black;">
+<img src="flappy-elements.JPG" alt="Game view">
 
-<img src="flappy-elements-2.JPG" alt="Game view" style="padding:1px;border:thin solid black;">
+<img src="flappy-elements-2.JPG" alt="Game view">
 
-<img src="flappy-elements-3.JPG" alt="Game view" style="padding:1px;border:thin solid black;">
+<img src="flappy-elements-3.JPG" alt="Game view">
 
-<img src="flappy-elements-4.JPG" alt="Game view" style="padding:1px;border:thin solid black;">
+<img src="flappy-elements-4.JPG" alt="Game view">
 
 ## Also available for Android devices
 
